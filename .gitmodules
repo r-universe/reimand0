@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ActiveDriver"]
 	path = ActiveDriver
 	url = https://github.com/cran/ActiveDriver
-	shallow = true
-	registered = true
 [submodule "ActiveDriverWGS"]
 	path = ActiveDriverWGS
 	url = https://github.com/cran/ActiveDriverWGS
-	shallow = true
-	registered = true
 [submodule "mExplorer"]
 	path = mExplorer
 	url = https://github.com/cran/mExplorer
-	shallow = true
-	registered = true
