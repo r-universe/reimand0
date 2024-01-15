@@ -5,9 +5,6 @@
 [submodule "ActiveDriver"]
 	path = ActiveDriver
 	url = https://github.com/cran/ActiveDriver
-[submodule "ActiveDriverWGS"]
-	path = ActiveDriverWGS
-	url = https://github.com/cran/ActiveDriverWGS
 [submodule "mExplorer"]
 	path = mExplorer
 	url = https://github.com/cran/mExplorer
